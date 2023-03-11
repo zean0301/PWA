@@ -1,0 +1,22 @@
+{
+    "name": "PWA_PRACTICE",
+    "short_name": "PWA",
+    "theme_color": "#000000",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "img/icon_192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "img/icon_512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ],
+    "background_color": "#FFFFFF",
+    "display": "standalone"
+}
